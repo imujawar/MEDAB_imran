@@ -4,14 +4,11 @@
 <details>
   <summary>1) Preliminary Questions :grey_question: </summary>
 <details>
-  <summary>1) I consider myself to be an introvert, and _**not**_ an extrovert.</summary>
-
-[![](https://api.gh-polls.com/poll/01E4W1J6C5C4FW4FBVKE5MZAG6/%221)%20Strongly%20agree%22)](https://api.gh-polls.com/poll/01E4W1J6C5C4FW4FBVKE5MZAG6/%221)%20Strongly%20agree%22/vote)
-[![](https://api.gh-polls.com/poll/01E4W1J6C5C4FW4FBVKE5MZAG6/%222)%20Somewhat%20agree%22)](https://api.gh-polls.com/poll/01E4W1J6C5C4FW4FBVKE5MZAG6/%222)%20Somewhat%20agree%22/vote)
-[![](https://api.gh-polls.com/poll/01E4W1J6C5C4FW4FBVKE5MZAG6/%223)%20Neutral%22)](https://api.gh-polls.com/poll/01E4W1J6C5C4FW4FBVKE5MZAG6/%223)%20Neutral%22/vote)
-[![](https://api.gh-polls.com/poll/01E4W1J6C5C4FW4FBVKE5MZAG6/%224)%20Somewhat%20disagree%22)](https://api.gh-polls.com/poll/01E4W1J6C5C4FW4FBVKE5MZAG6/%224)%20Somewhat%20disagree%22/vote)
-[![](https://api.gh-polls.com/poll/01E4W1J6C5C4FW4FBVKE5MZAG6/%225)%20Strongly%20disagree%22)](https://api.gh-polls.com/poll/01E4W1J6C5C4FW4FBVKE5MZAG6/%225)%20Strongly%20disagree%22/vote)
-
+  <summary>1) I consider myself to be an introvert, and <b>not</b> an extrovert.</summary>
+  
+[![](https://api.gh-polls.com/poll/01E4W1R3TSP2RMYCN7ZJ17GQ9P/option1)](https://api.gh-polls.com/poll/01E4W1R3TSP2RMYCN7ZJ17GQ9P/option1/vote)
+[![](https://api.gh-polls.com/poll/01E4W1R3TSP2RMYCN7ZJ17GQ9P/option2)](https://api.gh-polls.com/poll/01E4W1R3TSP2RMYCN7ZJ17GQ9P/option2/vote)
+[![](https://api.gh-polls.com/poll/01E4W1R3TSP2RMYCN7ZJ17GQ9P/option3)](https://api.gh-polls.com/poll/01E4W1R3TSP2RMYCN7ZJ17GQ9P/option3/vote)
 </details>  
   2. list
      * With some
