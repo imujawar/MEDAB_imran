@@ -21,7 +21,7 @@
 </details>
 
 <details>
-  <summary>3) Virtual collaboration platforms, coordination strategies </summary>
+  <summary>3) :robot: Virtual collaboration platforms, coordination strategies </summary>
   <ol type="a">
   <li>something</li>
   <li>something else</li>
