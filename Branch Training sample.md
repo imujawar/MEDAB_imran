@@ -1,7 +1,9 @@
 # Developing Training Pathways
 ### Agenda
+
 <details>
   <summary>1) Preliminary Questions </summary>
+  
   1. A numbered
   2. list
      * With some
