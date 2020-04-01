@@ -29,7 +29,7 @@
   <li>last thing</li>
 </ol>    
     <details>
-<summary> More stuff collapsed </summary>
+<summary> More stuff collapsed :grinning: </summary>
 
 blah blah blah
 </details>
