@@ -1,9 +1,7 @@
-# MEDAB training review
+# Developing Training Pathways
 ### Agenda
 <details>
-  <summary>1) Intro to objectives of workshop </summary>
-  
-  ### Heading
+  <summary>1) Preliminary Questions </summary>
   1. A numbered
   2. list
      * With some
