@@ -6,8 +6,8 @@
 <details>
   <summary>1) I consider myself to be an introvert, and <b>not</b> an extrovert.</summary>
   
-[![](https://api.gh-polls.com/poll/01E4W1R3TSP2RMYCN7ZJ17GQ9P/option1)](https://api.gh-polls.com/poll/01E4W1R3TSP2RMYCN7ZJ17GQ9P/option1/vote)
-[![](https://api.gh-polls.com/poll/01E4W1R3TSP2RMYCN7ZJ17GQ9P/option2)](https://api.gh-polls.com/poll/01E4W1R3TSP2RMYCN7ZJ17GQ9P/option2/vote)
+[![](https://api.gh-polls.com/poll/01E4W1R3TSP2RMYCN7ZJ17GQ9P/option1)](https://api.gh-polls.com/poll/01E4W1R3TSP2RMYCN7ZJ17GQ9P/option1/vote) <br>
+[![](https://api.gh-polls.com/poll/01E4W1R3TSP2RMYCN7ZJ17GQ9P/option2)](https://api.gh-polls.com/poll/01E4W1R3TSP2RMYCN7ZJ17GQ9P/option2/vote) <br>
 [![](https://api.gh-polls.com/poll/01E4W1R3TSP2RMYCN7ZJ17GQ9P/option3)](https://api.gh-polls.com/poll/01E4W1R3TSP2RMYCN7ZJ17GQ9P/option3/vote)
 </details>  
   2. list
