@@ -1,5 +1,5 @@
 # Developing Training Pathways
-### Agenda
+### :scroll: Agenda
 
 <details>
   <summary>1) Preliminary Questions </summary>
