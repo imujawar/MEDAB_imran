@@ -3,8 +3,7 @@
 
 <details>
   <summary>1) Preliminary Questions :grey_question: </summary>
-  
-  1. I consider myself to be an introvert, and _**not**_ an extrovert.
+1) I consider myself to be an introvert, and _**not**_ an extrovert.
   
 [![](https://api.gh-polls.com/poll/01E4W147RRAJHDFX5NN68STKG3/1)%20Strongly%20agree%20(I%20prefer%20spending%20time%20alone))](https://api.gh-polls.com/poll/01E4W147RRAJHDFX5NN68STKG3/1)%20Strongly%20agree%20(I%20prefer%20spending%20time%20alone)/vote)
 [![](https://api.gh-polls.com/poll/01E4W147RRAJHDFX5NN68STKG3/2)%20Somewhat%20agree%20(I%20mostly%20prefer%20spending%20time%20alone%2C%20but%20don't%20mind%20company))](https://api.gh-polls.com/poll/01E4W147RRAJHDFX5NN68STKG3/2)%20Somewhat%20agree%20(I%20mostly%20prefer%20spending%20time%20alone%2C%20but%20don't%20mind%20company)/vote)
