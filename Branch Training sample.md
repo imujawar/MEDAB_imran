@@ -4,9 +4,7 @@
 <details>
   <summary>1) Preliminary Questions (poll) :grey_question: :heavy_check_mark: </summary>
 
-<details>
-<pre>  <summary>   1) I consider myself to be an introvert (score 1), and <b>not</b> an extrovert (score 5) 
-</summary> 
+<pre>    1) I consider myself to be an introvert (score 1), and <b>not</b> an extrovert (score 5) 
 </pre>    
   
 [![](https://api.gh-polls.com/poll/01E4W3BE2A0TPVY6AAK1EZ8JB1/1.%20Strongly%20agree)](https://api.gh-polls.com/poll/01E4W3BE2A0TPVY6AAK1EZ8JB1/1.%20Strongly%20agree/vote)
@@ -14,8 +12,6 @@
 [![](https://api.gh-polls.com/poll/01E4W3BE2A0TPVY6AAK1EZ8JB1/3.%20Neutral)](https://api.gh-polls.com/poll/01E4W3BE2A0TPVY6AAK1EZ8JB1/3.%20Neutral/vote)
 [![](https://api.gh-polls.com/poll/01E4W3BE2A0TPVY6AAK1EZ8JB1/4.%20Somewhat%20disagree)](https://api.gh-polls.com/poll/01E4W3BE2A0TPVY6AAK1EZ8JB1/4.%20Somewhat%20disagree/vote)
 [![](https://api.gh-polls.com/poll/01E4W3BE2A0TPVY6AAK1EZ8JB1/5.%20Strongly%20disagree)](https://api.gh-polls.com/poll/01E4W3BE2A0TPVY6AAK1EZ8JB1/5.%20Strongly%20disagree/vote)
-
-</details>
 
 <pre>  2) I currently develop trainings on a regular basis? </pre>
 [![](https://api.gh-polls.com/poll/01E4XQN0E1W2YPXQ99RPCARYSX/1.%20Strongly%20agree)](https://api.gh-polls.com/poll/01E4XQN0E1W2YPXQ99RPCARYSX/1.%20Strongly%20agree/vote)
