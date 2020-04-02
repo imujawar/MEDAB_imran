@@ -31,7 +31,7 @@
 [![](https://api.gh-polls.com/poll/01E4Y1XKETYMEJD51KDA9JCHHA/Tools%20%5BSIMS%20tool%2C%20CHIPs%20tool%2C%20etc.%5D)](https://api.gh-polls.com/poll/01E4Y1XKETYMEJD51KDA9JCHHA/Tools%20%5BSIMS%20tool%2C%20CHIPs%20tool%2C%20etc.%5D/vote)
 [![](https://api.gh-polls.com/poll/01E4Y1XKETYMEJD51KDA9JCHHA/Methodologies%20%5BGIS%2C%20Machine%20Learning%2C%20etc.%5D)](https://api.gh-polls.com/poll/01E4Y1XKETYMEJD51KDA9JCHHA/Methodologies%20%5BGIS%2C%20Machine%20Learning%2C%20etc.%5D/vote)
 
-<pre> In my professional development, I prefer... </prev>
+<pre> In my professional development, I prefer... </pre>
 [![](https://api.gh-polls.com/poll/01E4Y2CSPSZAH365V9DGMP96SF/1.%20Online%20self-learning%20%5BCoursera%2C%20CDC%20university%2C%20etc.%5D)](https://api.gh-polls.com/poll/01E4Y2CSPSZAH365V9DGMP96SF/1.%20Online%20self-learning%20%5BCoursera%2C%20CDC%20university%2C%20etc.%5D/vote)
 [![](https://api.gh-polls.com/poll/01E4Y2CSPSZAH365V9DGMP96SF/2.%20In-person)](https://api.gh-polls.com/poll/01E4Y2CSPSZAH365V9DGMP96SF/2.%20In-person/vote)
 [![](https://api.gh-polls.com/poll/01E4Y2CSPSZAH365V9DGMP96SF/3.%20Online%20live)](https://api.gh-polls.com/poll/01E4Y2CSPSZAH365V9DGMP96SF/3.%20Online%20live/vote)
