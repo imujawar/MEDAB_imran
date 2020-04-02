@@ -6,6 +6,7 @@
 <details>
 <summary> <pre>  1) I consider myself to be an introvert (score 1), and <b>not</b> an extrovert (score 5) 
   </pre></summary>  
+  
 [![](https://api.gh-polls.com/poll/01E4W3BE2A0TPVY6AAK1EZ8JB1/1.%20Strongly%20agree)](https://api.gh-polls.com/poll/01E4W3BE2A0TPVY6AAK1EZ8JB1/1.%20Strongly%20agree/vote)
 [![](https://api.gh-polls.com/poll/01E4W3BE2A0TPVY6AAK1EZ8JB1/2.%20Somewhat%20agree)](https://api.gh-polls.com/poll/01E4W3BE2A0TPVY6AAK1EZ8JB1/2.%20Somewhat%20agree/vote)
 [![](https://api.gh-polls.com/poll/01E4W3BE2A0TPVY6AAK1EZ8JB1/3.%20Neutral)](https://api.gh-polls.com/poll/01E4W3BE2A0TPVY6AAK1EZ8JB1/3.%20Neutral/vote)
