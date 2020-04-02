@@ -2,7 +2,7 @@
 ### :scroll: Agenda
 
 <details>
-  <summary>1) Preliminary Questions :grey_question: </summary>
+  <summary>1) Preliminary Questions (poll) :grey_question: :heavy_check_mark: </summary>
 <pre>  1) I consider myself to be an introvert (score 1), and <b>not</b> an extrovert (score 5)</pre>
   
 [![](https://api.gh-polls.com/poll/01E4W3BE2A0TPVY6AAK1EZ8JB1/1.%20Strongly%20agree)](https://api.gh-polls.com/poll/01E4W3BE2A0TPVY6AAK1EZ8JB1/1.%20Strongly%20agree/vote)
