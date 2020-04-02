@@ -3,7 +3,7 @@
 
 <details>
   <summary>1) Preliminary Questions :grey_question: </summary>
-----     I consider myself to be an introvert, and <b>not</b> an extrovert
+<pre>  I consider myself to be an introvert, and <b>not</b> an extrovert</pre>
   
 [![](https://api.gh-polls.com/poll/01E4W1R3TSP2RMYCN7ZJ17GQ9P/option1)](https://api.gh-polls.com/poll/01E4W1R3TSP2RMYCN7ZJ17GQ9P/option1/vote) <br>
 [![](https://api.gh-polls.com/poll/01E4W1R3TSP2RMYCN7ZJ17GQ9P/option2)](https://api.gh-polls.com/poll/01E4W1R3TSP2RMYCN7ZJ17GQ9P/option2/vote) <br>
