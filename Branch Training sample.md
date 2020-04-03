@@ -23,7 +23,7 @@ Try this poll:
   
 The learner personas can be found in this [Google folder](https://drive.google.com/drive/folders/13WeXRgnRgEDhpFb_Y4356mcr2TvlaGM0?usp=sharing)
 
-Please pick one Learner Persona to identify **Existing** and **Needs** for virtual trainings for them:
+Please pick one Learner Persona to identify and list **Existing** personas and **Needs** for virtual trainings for them:
 <ol type="a">
   <li>Deputy Country Director (CDC)</li>
   <li>M&E Specialist (CDC)</li>
@@ -33,7 +33,7 @@ Please pick one Learner Persona to identify **Existing** and **Needs** for virtu
   <li>Data Manager (Partner)</li>
 </ol>    
 
-
+![GitHub Logo](/images/logo.png)
 
 </details>
 
