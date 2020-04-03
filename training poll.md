@@ -1,5 +1,5 @@
-### Preliminary poll for MEDAB branch training
-:back:[Return to training page!](https://github.com/imujawar/MEDAB_imran/blob/master/training%20poll.md "Return to training")
+### Preliminary poll for MEDAB branch training                       
+[:back:](https://github.com/imujawar/MEDAB_imran/blob/master/training%20poll.md "Return to training")
 
 https://github.com/imujawar/MEDAB_imran/blob/master/Branch%20Training%20sample.md
 
