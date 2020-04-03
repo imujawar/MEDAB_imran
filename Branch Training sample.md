@@ -19,7 +19,9 @@ Try this poll:
 
 <details>
   <summary><b>2) Learner Personas </b></summary>
-The learner personas can be found in a [Google folder](https://drive.google.com/drive/folders/13WeXRgnRgEDhpFb_Y4356mcr2TvlaGM0?usp=sharing). 
+  
+The learner personas can be found in this [Google folder](https://drive.google.com/drive/folders/13WeXRgnRgEDhpFb_Y4356mcr2TvlaGM0?usp=sharing)
+  
 </details>
 
 <details>
