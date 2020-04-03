@@ -33,6 +33,8 @@ Please pick one Learner Persona to identify and list **Existing** personas and *
   <li>Data Manager (Partner)</li>
 </ol>    
 
+<img src="https://github.com/imujawar/MEDAB_imran/blob/master/images/googledoc.JPG" width="10">
+
 ![Sample persona](/images/googledoc.JPG)
 
 </details>
