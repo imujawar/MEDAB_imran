@@ -10,7 +10,14 @@ Try this poll:
 </details>
 
 <details>
-  <summary>2) Show TechChange agenda page </summary>
+  <summary><b>2) Objectives :dart: </b> </summary>
+1. Review of [TechChange](https://www.techchange.org/) [workshop](https://pepfar.course.tc/pva-academy-ideation/c/1235pm-100pm-closing-discussion-and-next-steps-3mbu9YrW89UGYRsiPusciW/closing-discussion-bR4groKZv2LSvPB3CvymAu)
+2. 
+
+</details>
+
+<details>
+  <summary><b>2) TechChange agenda page </b></summary>
   <ol type="a">
   <li>Run through</li>
   <li>Google Docs</li>
@@ -20,7 +27,7 @@ Try this poll:
 </details>
 
 <details>
-  <summary>3) :robot: Virtual collaboration platforms, coordination strategies </summary>
+  <summary><b>3) :robot: Virtual collaboration platforms, coordination strategies </b></summary>
   <ol type="a">
   <li>something</li>
   <li>something else</li>
