@@ -19,7 +19,7 @@ Try this poll:
 </details>
 
 <details>
-  <summary><b>2) Learner Personas </b></summary>
+  <summary><b>3) Learner Personas </b></summary>
   
 The learner personas can be found in this [Google folder](https://drive.google.com/drive/folders/13WeXRgnRgEDhpFb_Y4356mcr2TvlaGM0?usp=sharing)
 
@@ -38,7 +38,7 @@ Please pick one Learner Persona to identify and list **Existing** resources and 
 </details>
 
 <details>
-  <summary><b>3) :robot: Virtual collaboration platforms, coordination strategies?? </b></summary>
+  <summary><b>4) :robot: Virtual collaboration platforms, coordination strategies?? </b></summary>
 
 1. Skype
 1. Zoom
