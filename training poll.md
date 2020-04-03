@@ -1,4 +1,7 @@
 ### Preliminary poll for MEDAB branch training
+:back:[Return to training page!](https://github.com/imujawar/MEDAB_imran/blob/master/training%20poll.md "Return to training")
+
+https://github.com/imujawar/MEDAB_imran/blob/master/Branch%20Training%20sample.md
 
 <pre>    1) I consider myself to be an introvert (score 1), and <b>not</b> an extrovert (score 5) 
 </pre>    
