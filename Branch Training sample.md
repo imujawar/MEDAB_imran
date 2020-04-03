@@ -4,8 +4,8 @@
 <details>
   <summary>1) Preliminary Questions (poll) :grey_question: :heavy_check_mark: </summary>
 
-
-[Website used to generate poll](https://app.gh-polls.com/ "GitHub poll app")
+Try this poll:
+[Preliminary Poll](https://github.com/imujawar/MEDAB_imran/blob/master/training%20poll.md "Go to Poll")
 
 </details>
 
