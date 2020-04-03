@@ -33,7 +33,7 @@ Please pick one Learner Persona to identify and list **Existing** personas and *
   <li>Data Manager (Partner)</li>
 </ol>    
 
-![GitHub Logo](/images/logo.png)
+![Sample persona](/images/googledoc.JPG)
 
 </details>
 
