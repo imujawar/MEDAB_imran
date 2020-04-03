@@ -2,7 +2,15 @@
 ### :scroll: Agenda
 
 <details>
-  <summary><b>1) Preliminary Questions (poll) :grey_question: :heavy_check_mark: </b> </summary>
+  <summary><b>1) Objectives :dart: </b> </summary>
+1. Provide a taste of the TechChange training, using opensource technoloigies.
+2. Allow participants to begin the process of developing an online training pathway.
+3. Initiate dialogue on creating interactive virtual online content and trainings, both live and recorded.
+
+</details>
+
+<details>
+  <summary><b>2) Preliminary Questions (poll) :grey_question: :heavy_check_mark: </b> </summary>
 
 Try this poll:
 [Preliminary Poll](https://github.com/imujawar/MEDAB_imran/blob/master/training%20poll.md "Go to Poll")
@@ -10,20 +18,8 @@ Try this poll:
 </details>
 
 <details>
-  <summary><b>2) Objectives :dart: </b> </summary>
-1. Intro to [TechChange](https://www.techchange.org/) 
-2. Understanding of concepts used in the [TechChange workshop](https://pepfar.course.tc/pva-academy-ideation/c/1235pm-100pm-closing-discussion-and-next-steps-3mbu9YrW89UGYRsiPusciW/closing-discussion-bR4groKZv2LSvPB3CvymAu)
-
-</details>
-
-<details>
-  <summary><b>2) TechChange agenda page </b></summary>
-  <ol type="a">
-  <li>Run through</li>
-  <li>Google Docs</li>
-  <li>Mural</li>
-  <li>Github Surveys/ Google forms</li>
-</ol>     
+  <summary><b>2) Learner Personas </b></summary>
+The learner personas can be found in a [Google folder](https://drive.google.com/drive/folders/13WeXRgnRgEDhpFb_Y4356mcr2TvlaGM0?usp=sharing). 
 </details>
 
 <details>
