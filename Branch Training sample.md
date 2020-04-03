@@ -2,7 +2,7 @@
 ### :scroll: Agenda
 
 <details>
-  <summary>1) Preliminary Questions (poll) :grey_question: :heavy_check_mark: </summary>
+  <summary>1) **Preliminary Questions (poll)** :grey_question: :heavy_check_mark: </summary>
 
 Try this poll:
 [Preliminary Poll](https://github.com/imujawar/MEDAB_imran/blob/master/training%20poll.md "Go to Poll")
