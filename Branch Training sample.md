@@ -11,8 +11,8 @@ Try this poll:
 
 <details>
   <summary><b>2) Objectives :dart: </b> </summary>
-1. Review of [TechChange](https://www.techchange.org/) [workshop](https://pepfar.course.tc/pva-academy-ideation/c/1235pm-100pm-closing-discussion-and-next-steps-3mbu9YrW89UGYRsiPusciW/closing-discussion-bR4groKZv2LSvPB3CvymAu)
-2. 
+1. Intro to [TechChange](https://www.techchange.org/) 
+2. Understanding of concepts used in the [TechChange workshop](https://pepfar.course.tc/pva-academy-ideation/c/1235pm-100pm-closing-discussion-and-next-steps-3mbu9YrW89UGYRsiPusciW/closing-discussion-bR4groKZv2LSvPB3CvymAu)
 
 </details>
 
