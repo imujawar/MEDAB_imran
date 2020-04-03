@@ -22,17 +22,23 @@ Try this poll:
   <summary><b>2) Learner Personas </b></summary>
   
 The learner personas can be found in this [Google folder](https://drive.google.com/drive/folders/13WeXRgnRgEDhpFb_Y4356mcr2TvlaGM0?usp=sharing)
-  
+
+Please pick one Learner Persona to identify **Existing** and **Needs** for virtual trainings for them:
+<ol type="a">
+  <li>Deputy Country Director (CDC)</li>
+  <li>M&E Specialist (CDC)</li>
+  <li>SI Chief (CDC)</li>
+  <li>Testing Adviser (CDC)</li>
+  <li>MoH C&T Adviser</li>
+  <li>Data Manager (Partner)</li>
+</ol>    
+
+
+
 </details>
 
 <details>
   <summary><b>3) :robot: Virtual collaboration platforms, coordination strategies </b></summary>
-  <ol type="a">
-  <li>something</li>
-  <li>something else</li>
-  <li>more stuff</li>
-  <li>last thing</li>
-</ol>    
     <details>
 <summary> More stuff collapsed :grinning: </summary>
 
