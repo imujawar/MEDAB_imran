@@ -1,5 +1,5 @@
 ### :robot: Do you prefer this Virtual Collaboration Platform? 
-Please respond to all Questions
+Please pick _**Yes**_ or _**No**_
 
 <pre>1. Skype </pre>
 
