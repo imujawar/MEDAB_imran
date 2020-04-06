@@ -24,12 +24,13 @@ Try this poll:
 The learner personas can be found in this [Google folder](https://drive.google.com/drive/folders/13WeXRgnRgEDhpFb_Y4356mcr2TvlaGM0?usp=sharing)
 
 Please pick one Learner Persona to identify and list **Existing** resources and **Needs** for virtual trainings for them:
-  1. Deputy Country Director (CDC)
-  2. M&E Specialist (CDC)
-  3. SI Chief (CDC)
-  4. Testing Adviser (CDC)
-  5. MoH C&T Adviser
-  6. Data Manager (Partner)
+
+[![](https://api.gh-polls.com/poll/01E586D2B42XCWNDH6YASBW4WN/1.%20Deputy%20Country%20Director%20%5BCDC%5D)](https://api.gh-polls.com/poll/01E586D2B42XCWNDH6YASBW4WN/1.%20Deputy%20Country%20Director%20%5BCDC%5D/vote)
+[![](https://api.gh-polls.com/poll/01E586D2B42XCWNDH6YASBW4WN/2.%20M%26E%20Specialist%20%5BCDC%5D)](https://api.gh-polls.com/poll/01E586D2B42XCWNDH6YASBW4WN/2.%20M%26E%20Specialist%20%5BCDC%5D/vote)
+[![](https://api.gh-polls.com/poll/01E586D2B42XCWNDH6YASBW4WN/3.%20SI%20Chief%20%5BCDC%5D)](https://api.gh-polls.com/poll/01E586D2B42XCWNDH6YASBW4WN/3.%20SI%20Chief%20%5BCDC%5D/vote)
+[![](https://api.gh-polls.com/poll/01E586D2B42XCWNDH6YASBW4WN/4.%20Testing%20Adviser%20%5BCDC%5D)](https://api.gh-polls.com/poll/01E586D2B42XCWNDH6YASBW4WN/4.%20Testing%20Adviser%20%5BCDC%5D/vote)
+[![](https://api.gh-polls.com/poll/01E586D2B42XCWNDH6YASBW4WN/5.%20MoH%20C%26T%20Adviser)](https://api.gh-polls.com/poll/01E586D2B42XCWNDH6YASBW4WN/5.%20MoH%20C%26T%20Adviser/vote)
+[![](https://api.gh-polls.com/poll/01E586D2B42XCWNDH6YASBW4WN/6.%20Data%20Manager%20%5BPartner%5D)](https://api.gh-polls.com/poll/01E586D2B42XCWNDH6YASBW4WN/6.%20Data%20Manager%20%5BPartner%5D/vote)
 
 <img src="https://github.com/imujawar/MEDAB_imran/blob/master/images/googledoc.JPG" width="600">
 
