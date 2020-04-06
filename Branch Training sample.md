@@ -34,19 +34,3 @@ Please pick one Learner Persona to identify and list **Existing** resources and 
 <img src="https://github.com/imujawar/MEDAB_imran/blob/master/images/googledoc.JPG" width="600">
 
 </details>
-
-<details>
-  <summary><b>4) :robot: Virtual collaboration platforms, coordination strategies?? </b></summary>
-
-1. Skype
-1. Zoom
-1. Conference Lines
-1. Microsoft Teams
-1. WhatsApp
-1. Adobe Connect
-1. GitHub
-1. GitLab
-1. Scrum
-1. Google Docs/Forms
-
-</details>
