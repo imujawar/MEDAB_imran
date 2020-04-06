@@ -13,7 +13,7 @@
 <details>
   <summary><b>2) Preliminary Questions (poll) :grey_question: :heavy_check_mark: </b> </summary>
 
-Try this poll:
+Try this poll (_hold control 'Ctrl' and then click to open in new tab!_):
 [Preliminary Poll](https://github.com/imujawar/MEDAB_imran/blob/master/training%20poll.md "Go to Poll")
 
 </details>
@@ -21,7 +21,7 @@ Try this poll:
 <details>
   <summary><b>3) Learner Personas </b></summary>
   
-The learner personas can be found in this [Google folder](https://drive.google.com/drive/folders/13WeXRgnRgEDhpFb_Y4356mcr2TvlaGM0?usp=sharing)
+The learner personas can be found in this [Google folder](https://drive.google.com/drive/folders/13WeXRgnRgEDhpFb_Y4356mcr2TvlaGM0?usp=sharing) (_hold control and then click to open in new tab!_)
 
 Please pick one Learner Persona you are familiar with, to identify and list **Existing** resources and **Needs** for virtual trainings for them:
 
