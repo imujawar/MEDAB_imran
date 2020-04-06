@@ -23,7 +23,7 @@ Try this poll:
   
 The learner personas can be found in this [Google folder](https://drive.google.com/drive/folders/13WeXRgnRgEDhpFb_Y4356mcr2TvlaGM0?usp=sharing)
 
-Please pick one Learner Persona to identify and list **Existing** resources and **Needs** for virtual trainings for them:
+Please pick one Learner Persona you are familiar with, to identify and list **Existing** resources and **Needs** for virtual trainings for them:
 
 [![](https://api.gh-polls.com/poll/01E586D2B42XCWNDH6YASBW4WN/1.%20Deputy%20Country%20Director%20%5BCDC%5D)](https://api.gh-polls.com/poll/01E586D2B42XCWNDH6YASBW4WN/1.%20Deputy%20Country%20Director%20%5BCDC%5D/vote)
 [![](https://api.gh-polls.com/poll/01E586D2B42XCWNDH6YASBW4WN/2.%20M%26E%20Specialist%20%5BCDC%5D)](https://api.gh-polls.com/poll/01E586D2B42XCWNDH6YASBW4WN/2.%20M%26E%20Specialist%20%5BCDC%5D/vote)
