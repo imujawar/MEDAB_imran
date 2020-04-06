@@ -24,13 +24,12 @@ Try this poll:
 The learner personas can be found in this [Google folder](https://drive.google.com/drive/folders/13WeXRgnRgEDhpFb_Y4356mcr2TvlaGM0?usp=sharing)
 
 Please pick one Learner Persona to identify and list **Existing** resources and **Needs** for virtual trainings for them:
-  1. [Deputy Country Director (CDC)](https://webconf.cdc.gov/lrz5/N2HRNLTW)
-  2. [M&E Specialist (CDC)](https://webconf.cdc.gov/lrz5/N2HRNLTW)
-  3. SI Chief (CDC)</li>
-  4. Testing Adviser (CDC)</li>
-  5. MoH C&T Adviser</li>
-  6. Data Manager (Partner)</li>
-</ol>    
+  1. Deputy Country Director (CDC)
+  2. M&E Specialist (CDC)
+  3. SI Chief (CDC)
+  4. Testing Adviser (CDC)
+  5. MoH C&T Adviser
+  6. Data Manager (Partner)
 
 <img src="https://github.com/imujawar/MEDAB_imran/blob/master/images/googledoc.JPG" width="600">
 
