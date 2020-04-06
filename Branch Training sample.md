@@ -4,8 +4,8 @@
 <details>
   <summary><b>1) Objectives :dart: </b> </summary>
   
-1. Provide a taste of the TechChange training, using opensource technoloigies.
-1. Allow participants to begin the process of developing an online training pathway.
+1. Provide a small sampler of the TechChange training, using opensource technoloigies.
+1. Facilitate participants to initialize the process of developing an online training pathway.
 1. Initiate dialogue on creating interactive virtual online content and trainings, both live and recorded.
 
 </details>
