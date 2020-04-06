@@ -13,7 +13,7 @@
 <details>
   <summary><b>2) Preliminary Questions (poll) :grey_question: :heavy_check_mark: </b> </summary>
 
-Try this poll (_hold control 'Ctrl' and then click to open in new tab!_):
+Try this poll:
 [Preliminary Poll](https://github.com/imujawar/MEDAB_imran/blob/master/training%20poll.md "Go to Poll")
 
 </details>
