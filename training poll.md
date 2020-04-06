@@ -20,10 +20,10 @@
 
 
 <pre>  3) How much experience do you have developing online trainings? </pre>
-[![](https://api.gh-polls.com/poll/01E4Y06VKVH0YJV0KCQKCBECM9/1.%20A%20lot%20)](https://api.gh-polls.com/poll/01E4Y06VKVH0YJV0KCQKCBECM9/1.%20A%20lot%20/vote)
-[![](https://api.gh-polls.com/poll/01E4Y06VKVH0YJV0KCQKCBECM9/2.%20Some)](https://api.gh-polls.com/poll/01E4Y06VKVH0YJV0KCQKCBECM9/2.%20Some/vote)
-[![](https://api.gh-polls.com/poll/01E4Y06VKVH0YJV0KCQKCBECM9/3.%20Little)](https://api.gh-polls.com/poll/01E4Y06VKVH0YJV0KCQKCBECM9/3.%20Little/vote)
-[![](https://api.gh-polls.com/poll/01E4Y06VKVH0YJV0KCQKCBECM9/4.%20None)](https://api.gh-polls.com/poll/01E4Y06VKVH0YJV0KCQKCBECM9/4.%20None/vote)
+[![](https://api.gh-polls.com/poll/01E582Q0RNZSFC6F2YM5XF0Y7Q/1.%20A%20lot)](https://api.gh-polls.com/poll/01E582Q0RNZSFC6F2YM5XF0Y7Q/1.%20A%20lot/vote)
+[![](https://api.gh-polls.com/poll/01E582Q0RNZSFC6F2YM5XF0Y7Q/2.%20Some)](https://api.gh-polls.com/poll/01E582Q0RNZSFC6F2YM5XF0Y7Q/2.%20Some/vote)
+[![](https://api.gh-polls.com/poll/01E582Q0RNZSFC6F2YM5XF0Y7Q/3.%20Little)](https://api.gh-polls.com/poll/01E582Q0RNZSFC6F2YM5XF0Y7Q/3.%20Little/vote)
+[![](https://api.gh-polls.com/poll/01E582Q0RNZSFC6F2YM5XF0Y7Q/4.%20None)](https://api.gh-polls.com/poll/01E582Q0RNZSFC6F2YM5XF0Y7Q/4.%20None/vote)
 
 <pre>  4) What kind of online trainings would you/do you like to work on? </pre>
 [![](https://api.gh-polls.com/poll/01E4Y1XKETYMEJD51KDA9JCHHA/SOPs%20%5BDQA%2C%20COP%20guidance%2C%20etc.%5D)](https://api.gh-polls.com/poll/01E4Y1XKETYMEJD51KDA9JCHHA/SOPs%20%5BDQA%2C%20COP%20guidance%2C%20etc.%5D/vote)
