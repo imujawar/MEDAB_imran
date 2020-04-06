@@ -1,4 +1,4 @@
-### :Robot: Have you used this Virtual Collaboration Platform? 
+### :robot: Do you prefer this Virtual Collaboration Platform? 
 Please respond to all Questions
 
 <pre>1. Skype </pre>
