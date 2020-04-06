@@ -25,7 +25,7 @@ The learner personas can be found in this [Google folder](https://drive.google.c
 
 Please pick one Learner Persona to identify and list **Existing** resources and **Needs** for virtual trainings for them:
 <ol type="a">
-  <li>Deputy Country Director (CDC)</li>
+  <li>[Deputy Country Director (CDC)](https://webconf.cdc.gov/lrz5/N2HRNLTW)</li>
   <li>M&E Specialist (CDC)</li>
   <li>SI Chief (CDC)</li>
   <li>Testing Adviser (CDC)</li>
