@@ -39,4 +39,7 @@ Please pick one Learner Persona you are familiar with, to identify and list **Ex
 <details>
   <summary><b>4) Virtual Collaboration Platforms :robot: </b></summary>
  
+ <img src="https://github.com/imujawar/MEDAB_imran/blob/master/images/table1.png" width="600">
+ 
+ 
   </details>
