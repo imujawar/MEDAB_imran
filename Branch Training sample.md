@@ -35,3 +35,8 @@ Please pick one Learner Persona you are familiar with, to identify and list **Ex
 <img src="https://github.com/imujawar/MEDAB_imran/blob/master/images/googledoc.JPG" width="600">
 
 </details>
+
+<details>
+  <summary><b>4) Virtual Collaboration Platforms :robot: </b></summary>
+  
+  </details>
