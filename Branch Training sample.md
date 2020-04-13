@@ -38,5 +38,5 @@ Please pick one Learner Persona you are familiar with, to identify and list **Ex
 
 <details>
   <summary><b>4) Virtual Collaboration Platforms :robot: </b></summary>
-  
+ 
   </details>
