@@ -41,5 +41,7 @@ Please pick one Learner Persona you are familiar with, to identify and list **Ex
  
  <img src="https://github.com/imujawar/MEDAB_imran/blob/master/images/table1.png" width="600">
  
- 
+ [Poll on Virtual Collaboration platforms](https://github.com/imujawar/MEDAB_imran/blob/master/Virtual%20Collab%20tools.md "Go to Poll")
+
+
   </details>
