@@ -14,7 +14,7 @@ function(){
       #  require returns TRUE invisibly if it was able to load package
       if( ! require( i , character.only = TRUE ) ){
         #  If package was not able to be loaded then re-install
-        install.packages( i , dependencies = TRUE )
+        install.packages( i , dependencies = TRUE , repos = "http://cran.us.r-project.org")
         #  Load package after installing
         require( i , character.only = TRUE )
       }
