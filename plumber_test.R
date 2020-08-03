@@ -1,6 +1,5 @@
 # plumber_test.R
 
-#* Return the sum of two numbers
 #* @post /country_data
 function() {
   fun_frame <- dget(
