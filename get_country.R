@@ -1,4 +1,4 @@
-function(){
+get_frame <- function(){
   # Creating basic functions to show top few rows of data
   View50 <- function(x){View(x[1:50,])}
   View100 <- function(x){View(x[1:100,])}
