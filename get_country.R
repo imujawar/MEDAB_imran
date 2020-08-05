@@ -1,14 +1,5 @@
 function() {
 
-library(plumber)
-library(maps) 
-library(tidyverse)
-library(countrycode)
-library(passport)
-library(wbstats)
-library(rvest)
-
-
   # Creating basic functions 
   # Creating the 'not in' function
   `%ni%` <- Negate(`%in%`) 
