@@ -40,22 +40,6 @@ get_frame <- function(){
   # ~~~~~~~~~~~~~~~~ Setting up folders for data  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   
-  #SETTING DIRECTORY FOR INTERNATIONAL TASK FORCE - if James, defaults to his own account, otherwise appends users' name to the path
-  dir.root<- ifelse(dir.exists(paste0("C:/Users/",Sys.getenv("USERNAME"),"/CDC/International Task Force-COVID19 - DataViz/Data and Analysis/")),
-                    paste0("C:/Users/",Sys.getenv("USERNAME"),"/CDC/International Task Force-COVID19 - DataViz/Data and Analysis/"),
-                    ifelse(dir.exists(paste0("C:/Users/",Sys.getenv("USERNAME"),"/CDC/ITF-COVID19 International Task Force - DataViz/Data and Analysis/")),
-                           paste0("C:/Users/",Sys.getenv("USERNAME"),"/CDC/ITF-COVID19 International Task Force - DataViz/Data and Analysis/"),
-                           "Directory does not exist"))
-  
-  rfunctions.dir <- paste0(dir.root, "PowerBI/R_scripts_testing/r_functions/")
-  
-  
-  # # function to get the base JHU data with cases and deaths daily/cumulative 
-  # fun_whoreg <- dget(paste0(rfunctions.dir, "who_regions.R"))
-  # 
-  # wreg <- fun_whoreg() %>% 
-  #   mutate(a3 = countrycode(ou, origin = 'country.name', destination = 'iso3c')) %>% 
-  #   select(a3, region)
   
   # Getting table with country and ISO alpha 3 code:
   iso_data <- maps::iso3166 
