@@ -1,36 +1,19 @@
-get_frame <- function(){
-  # Creating basic functions to show top few rows of data
-  View50 <- function(x){View(x[1:50,])}
-  View100 <- function(x){View(x[1:100,])}
-  
+function() {
+
+library(plumber)
+library(maps) 
+library(tidyverse)
+library(countrycode)
+library(passport)
+library(wbstats)
+library(rvest)
+
+
+  # Creating basic functions 
   # Creating the 'not in' function
   `%ni%` <- Negate(`%in%`) 
   
-  
-  # Pulling in the load package function R file
-  # Load function to install list of packages
-  ldpkg <- function(x){
-    for( i in x ){
-      #  require returns TRUE invisibly if it was able to load package
-      if( ! require( i , character.only = TRUE ) ){
-        #  If package was not able to be loaded then re-install
-        install.packages( i , dependencies = TRUE , repos = "http://cran.us.r-project.org")
-        #  Load package after installing
-        require( i , character.only = TRUE )
-      }
-    }
-  }
-  
-  
-  # Loading the packages
-  ldpkg(c("maps", 
-          "tidyverse",
-          "countrycode",
-          "passport",
-          "wbstats",
-          "rvest"
-          ))
-  
+
   # Take out all NAs in the dataset and replace with zero
   remove_nas <- function(df) { 
     df %>% mutate_if(is.numeric, ~replace(., is.na(.), 0))}
@@ -39,7 +22,6 @@ get_frame <- function(){
   # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   # ~~~~~~~~~~~~~~~~ Setting up folders for data  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-  
   
   # Getting table with country and ISO alpha 3 code:
   iso_data <- maps::iso3166 
@@ -128,6 +110,4 @@ get_frame <- function(){
   base_frame <- df %>% 
     dplyr::select(country, iso3code, iso2code, who_region, pop_2020yr) %>% 
     unique()
-  
-  return(base_frame)
-}
+base_frame }    
